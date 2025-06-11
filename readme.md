@@ -2,7 +2,7 @@
 
 #### INSTALLATION:
     git clone https://github.com/coolORANGE3/param-detector
-    cd repo
+    cd param-detector
     python param-detector.py -u {url} --color red
 
     
